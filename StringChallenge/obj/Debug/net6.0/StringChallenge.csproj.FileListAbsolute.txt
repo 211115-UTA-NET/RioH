@@ -1,0 +1,15 @@
+C:\Users\riohi\folderone\RioH\StringChallenge\bin\Debug\net6.0\StringChallenge.exe
+C:\Users\riohi\folderone\RioH\StringChallenge\bin\Debug\net6.0\StringChallenge.deps.json
+C:\Users\riohi\folderone\RioH\StringChallenge\bin\Debug\net6.0\StringChallenge.runtimeconfig.json
+C:\Users\riohi\folderone\RioH\StringChallenge\bin\Debug\net6.0\StringChallenge.dll
+C:\Users\riohi\folderone\RioH\StringChallenge\bin\Debug\net6.0\ref\StringChallenge.dll
+C:\Users\riohi\folderone\RioH\StringChallenge\bin\Debug\net6.0\StringChallenge.pdb
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\StringChallenge.csproj.AssemblyReference.cache
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\StringChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\StringChallenge.AssemblyInfoInputs.cache
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\StringChallenge.AssemblyInfo.cs
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\StringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\StringChallenge.dll
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\ref\StringChallenge.dll
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\StringChallenge.pdb
+C:\Users\riohi\folderone\RioH\StringChallenge\obj\Debug\net6.0\StringChallenge.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.exe
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.deps.json
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.runtimeconfig.json
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.dll
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\bin\Debug\net6.0\ref\MyFirstDotnet.dll
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\bin\Debug\net6.0\MyFirstDotnet.pdb
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.csproj.AssemblyReference.cache
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.AssemblyInfoInputs.cache
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.AssemblyInfo.cs
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.csproj.CoreCompileInputs.cache
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.dll
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\ref\MyFirstDotnet.dll
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.pdb
+C:\Users\riohi\folderone\RioH\MyFirstDotnet\obj\Debug\net6.0\MyFirstDotnet.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\riohi\folderone\RioH\StringManipu\bin\Debug\net6.0\StringManipu.exe
+C:\Users\riohi\folderone\RioH\StringManipu\bin\Debug\net6.0\StringManipu.deps.json
+C:\Users\riohi\folderone\RioH\StringManipu\bin\Debug\net6.0\StringManipu.runtimeconfig.json
+C:\Users\riohi\folderone\RioH\StringManipu\bin\Debug\net6.0\StringManipu.dll
+C:\Users\riohi\folderone\RioH\StringManipu\bin\Debug\net6.0\ref\StringManipu.dll
+C:\Users\riohi\folderone\RioH\StringManipu\bin\Debug\net6.0\StringManipu.pdb
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\StringManipu.csproj.AssemblyReference.cache
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\StringManipu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\StringManipu.AssemblyInfoInputs.cache
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\StringManipu.AssemblyInfo.cs
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\StringManipu.csproj.CoreCompileInputs.cache
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\StringManipu.dll
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\ref\StringManipu.dll
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\StringManipu.pdb
+C:\Users\riohi\folderone\RioH\StringManipu\obj\Debug\net6.0\StringManipu.genruntimeconfig.cache
