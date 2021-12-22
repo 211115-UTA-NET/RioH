@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2172280d-0893-4aca-8721-4e907f04be58": {
+      "ProjectGuid": "2172280d-0893-4aca-8721-4e907f04be58",
+      "DisplayName": "SnackStoreProj",
+      "ColorIndex": 0
+    },
+    "e2e9c51b-33a0-4466-a7c6-3b08d57e0b00": {
+      "ProjectGuid": "e2e9c51b-33a0-4466-a7c6-3b08d57e0b00",
+      "DisplayName": "SnackStoreProj",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
